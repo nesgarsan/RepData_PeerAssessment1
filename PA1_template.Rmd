@@ -28,7 +28,6 @@ Mean:
 ```{r, echo=TRUE}
 mean(stepsDay$steps)
 ```
-
 Median:
 ```{r, echo=TRUE} 
 median(stepsDay$steps)
